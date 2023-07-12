@@ -1,0 +1,12 @@
+﻿{
+  "types": [
+    {
+      "typeName": "FirstClass",
+      "properties": []
+    },
+    {
+      "typeName": "SecondClass",
+      "properties": []
+    }
+  ]
+}
